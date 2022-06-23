@@ -1,0 +1,40 @@
+I am practising the different keywords in vi editor
+How to give 3 line spacing-ESC+3+o
+
+
+
+See we have 3 lines gap above.
+Now how to cut and paste in the editor.
+
+
+
+
+and paste it here.
+I want to cut this line.
+
+copy below lines-ESC+no. of lines+yy
+DevOps Tutorials
+Scripting
+Git
+Jenkins
+Ansible
+
+
+DevOps Tutorials
+Scripting
+Git
+Jenkins
+Ansible
+
+
+DevOps Tutorials
+Scripting
+Git
+Jenkins
+Ansible
+
+To replace the text- ESC+%+s+/old text/new text
+e.g. :%s/scripting/YAML scripting
+
+to set number of lines- :set nu
+
