@@ -1,2 +1,2 @@
 main
-newbranch content changed
+updated-newbranch content changed
